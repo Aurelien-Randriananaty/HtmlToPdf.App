@@ -1,0 +1,6 @@
+@HtmlToPdf.App.Manager_HostAddress = http://localhost:5197
+
+GET {{HtmlToPdf.App.Manager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
